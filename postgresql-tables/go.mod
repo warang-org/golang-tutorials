@@ -1,4 +1,4 @@
-module create-table.go
+module go-packnew
 
 go 1.12
 
