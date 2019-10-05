@@ -10,7 +10,7 @@ import (
 
 // Open to open db connection
 func Open() (*gorm.DB, error) {
-
+	// Database connection
 	server := "127.0.0.1"
 	port := 5432
 	username := "postgres"
